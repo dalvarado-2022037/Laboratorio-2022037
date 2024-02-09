@@ -1,0 +1,10 @@
+/node_modules
+
+mongoose
+express
+dontev
+cors
+helmet
+morgan
+bcrypt
+jsonwebtoke
